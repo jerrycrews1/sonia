@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jerrycrews1/pedro.git"
+    "url": "git+https://github.com/jerrycrews1/sonia.git"
   },
   "author": "Jerry Crews",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jerrycrews1/pedro/issues"
+    "url": "https://github.com/jerrycrews1/sonia/issues"
   },
-  "homepage": "https://github.com/jerrycrews1/pedro#readme",
+  "homepage": "https://github.com/jerrycrews1/sonia#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.12"
